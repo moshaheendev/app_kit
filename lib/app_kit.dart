@@ -1,3 +1,3 @@
 export 'src/utils/app_sizer.dart';
 export 'src/utils/api_client.dart';
-export 'src/ui/snack/app_snack.dart';
+export 'src/ui/app_snack.dart';
